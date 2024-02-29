@@ -1,3 +1,5 @@
+![](https://github.com/ChristineWidden/ComputerGraphics_Midterm/blob/main/recording.gif)
+
 Lab 3 - Hello Triangle and Installing prerequisite software
 ========================================
 
