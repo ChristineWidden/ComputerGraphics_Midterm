@@ -1,0 +1,10 @@
+
+
+Space bar to stop and start automatic animation
+
+When animation is off:
+
+I and K to raise and lower the bird's head
+
+hold J to flap the left wing, L to flap the right wing
+M to "flap" the tailfeathers
